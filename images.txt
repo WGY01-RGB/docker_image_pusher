@@ -1,1 +1,1 @@
-shinsenter/scratch
+mysql:5.7

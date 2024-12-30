@@ -1,1 +1,2 @@
-nginx
+prom/prometheus
+prom/node-exporter

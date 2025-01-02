@@ -1,2 +1,1 @@
-prom/prometheus
-prom/node-exporter
+grafana/grafana

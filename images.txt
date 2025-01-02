@@ -1,1 +1,1 @@
-consul/consul：1.15.4
+hashicorp/consul
